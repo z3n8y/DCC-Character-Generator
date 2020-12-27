@@ -1,0 +1,101 @@
+roll, occupation, trained_weapon, trade_goods,race
+1, alchemist, staff," oil, 1 flask",human
+2, animal trainer, club, pony,human
+3, armorer, hammer, iron helmet,human
+4, armorer, hammer, iron helmet,human
+5, astrologer, dagger, spyglass,human
+6, blacksmith, hammer, steel tongs,human
+7, blacksmith, hammer, steel tongs,human
+8, blacksmith, hammer, steel tongs,human
+9, caravan guard, short sword," linen, 1 yard",human
+10, caravan guard, short sword," linen, 1 yard",human
+11, cobbler, awl, shoehorn,human
+12, confidence artist, dagger, quality cloak,human
+13, cooper, crowbar, barrel,human
+14, cutpurse, dagger, small chest,human
+15, cutpuse, dagger, small chest,human
+16, ditch digger, shovel," fine dirt, 1lb.",human
+17, ditch digger, shovel," fine dirt, 1lb.",human
+18, dwarven blacksmith, hammer," mithril, 1oz",dwarve
+19, dwarven blacksmith, hammer," mithril, 1oz",dwarve
+20, dwarven blacksmith, hammer," mithril, 1oz",dwarve
+21, dwarven blacksmith, hammer," mithril, 1oz",dwarve
+22, dwarven herder, staff, animal,dwarve
+23, dwarven herder, staff, animal,dwarve
+24, dwarven miner, pick, lantern,dwarve
+25, dwarven miner, pick, lantern,dwarve
+26, dwarven miner, pick, lantern,dwarve
+27, dwarven miner, pick, lantern,dwarve
+28, elven artisan, staff, clay 1lb.,elf
+29, elven artisan, staff, clay 1lb.,elf
+30, elven artisan, staff, clay 1lb.,elf
+31, elven artisan, staff, clay 1lb.,elf
+32, elven forester, staff, herbs 1lb.,elf
+33, elven forester, staff, herbs 1lb.,elf
+34, elven forester, staff, herbs 1lb.,elf
+35, elven forester, staff, herbs 1lb.,elf
+36, elven sage, dagger, parchment and quill pen,elf
+37, elven sage, dagger, parchment and quill pen,elf
+38, farmer, pitchfork, animal,human
+39, farmer, pitchfork, animal,human
+40, farmer, pitchfork, animal,human
+41, farmer, pitchfork, animal,human
+42, farmer, pitchfork, animal,human
+43, farmer, pitchfork, animal,human
+44, farmer, pitchfork, animal,human
+45, farmer, pitchfork, animal,human
+46, farmer, pitchfork, animal,human
+47, farmer, pitchfork, animal,human
+48, fortune teller, dagger, tarot deck,human
+49, gambler, club, dice,human
+50, gongfarmer, trowel, sack of night soil,human
+51, grave digger, shovel, trowel,human
+52, grave digger, shovel, trowel,human
+53, guild beggar, sling, crutches,human
+54, guild beggar, sling, crutches,human
+55, halfling gypsy, sling, hex doll,halfling
+56, halfling gypsy, sling, hex doll,halfling
+57, halfling gypsy, sling, hex doll,halfling
+58, halfling gypsy, sling, hex doll,halfling
+59, halfling trader, short sword, 20sp,halfling
+60, halfling trader, short sword, 20sp,halfling
+61, halfling trader, short sword, 20sp,halfling
+62, halfling trader, short sword, 20sp,halfling
+63, halfling vagrant, club, begging bowl,halfling
+64, halfling vagrant, club, begging bowl,halfling
+65, healer, club," holy water, 1 vial",human
+66, herbalist, club, herbs 1lb.,human
+67, herder, staff, herding dog,human
+68, herder, staff, herding dog,human
+69, herder, staff, herding dog,human
+70, hunter, shortbow, deer pelt,human
+71, hunter, shortbow, deer pelt,human
+72, hunter, shortbow, deer pelt,human
+73, indentured servant, staff, locket,human
+74, jester, dart, silk clothes,human
+75, jeweler, dagger, gem worth 20gp,human
+76, locksmith, dagger, fine tools,human
+77, mercenary, longsword, hide armor,human
+78, miller/baker, club," flour, 1lb.",human
+79, minstrel, dagger, ukulele,human
+80, noble, longsword, gold ring worth 10gp,human
+81, orphan, club, rag doll,human
+82, ostler, staff, bridle,human
+83, outlaw, short sword, leather armor,human
+84, scribe, dart," parchment, 10 sheets",human
+85, shaman, mace, herbs 1lb.,human
+86, slave, club, strange-looking rock,human
+87, smuggler, sling, waterproof sack,human
+88, soldier, spear, shield,human
+89, soldier, spear, shield,human
+90, squire, longsword, steel helmet,human
+91, squire, longsword, steel helmet,human
+92, trapper, sling, badger pelt,human
+93, trapper, sling, badger pelt,human
+94, urchin, stick, begging bowl,human
+95, wainright, club, pushcart of...,human
+96, weaver, dagger, fine suit of clothes,human
+97, wizards apprentice, dagger, black grimoire,human
+98, woodcutter, handaxe, bundle of wood,human
+99, woodcutter, handaxe, bundle of wood,human
+100, woodcutter, handaxe, bundle of wood,human
