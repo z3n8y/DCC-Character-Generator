@@ -1,0 +1,11 @@
+
+Name: Farmer Fred
+level: 0    occupation: fortune teller    race: human
+	str: 14
+	agl: 9
+	sta: 13
+	per: 12
+	int: 12
+	lck: 12
+	Inventory: ['dagger', 'tarot deck']
+None

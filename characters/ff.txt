@@ -1,0 +1,11 @@
+
+Name: Ff
+level: 0    occupation: ostler    race: human
+	str: 10
+	agl: 14
+	sta: 12
+	per: 12
+	int: 7
+	lck: 12
+	Inventory: ['staff', 'bridle']
+None

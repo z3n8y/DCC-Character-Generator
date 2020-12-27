@@ -1,0 +1,11 @@
+
+Name: Farmer Frd
+level: 0    occupation: urchin    race: human
+	str: 9
+	agl: 7
+	sta: 16
+	per: 10
+	int: 14
+	lck: 8
+	Inventory: ['stick', 'begging bowl']
+None

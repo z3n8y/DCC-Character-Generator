@@ -1,0 +1,11 @@
+
+Name: Fred Farmer
+level: 0    occupation: wainright    race: human
+	str: 10
+	agl: 4
+	sta: 9
+	per: 14
+	int: 14
+	lck: 5
+	Inventory: ['club', 'pushcart of...']
+None

@@ -1,0 +1,11 @@
+
+Name: Farmer
+level: 0    occupation: healer    race: human
+	str: 12
+	agl: 15
+	sta: 15
+	per: 11
+	int: 9
+	lck: 11
+	Inventory: ['club', 'holy water, 1 vial']
+None

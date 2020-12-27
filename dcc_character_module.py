@@ -62,7 +62,22 @@ class Character():
 		occupation = df.iloc[roll].values.tolist()
 		self.occupation = occupation[1].strip()
 		(self.inventory).append(occupation[2].strip())
-		(self.inventory).append(occupation[3].strip())
+		if occupation[3].strip() == 'animal':
+			animals = ['chicken', 'donkey', 'goat', 'sheep', 'chicken']
+			animal_dice = Dice(5)
+			roll = animal_dice.roll_dice(1)
+			animal = animals[roll - 1]
+			self.inventory.append(animal)
+
+		elif occupation[3].strip() == 'pushcart of...':
+			produce = ['stripped dead bodies', 'cabbages', 'nothing', 'tomatoes', 'dirt', 'straw']
+			produce_dice = Dice(6)
+			roll = produce_dice.roll_dice(1)
+			product = produce[roll - 1]
+			product = "pushcart full of " + product
+			self.inventory.append()
+		else: 
+			(self.inventory).append(occupation[3].strip())
 		self.race = occupation[4].strip()
 
 	def give_item(self, item):
