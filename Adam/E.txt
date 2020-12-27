@@ -1,0 +1,11 @@
+
+Name: E
+level: 0    occupation: herder    race: human
+	str: 14
+	agl: 7
+	sta: 9
+	per: 11
+	int: 10
+	lck: 14
+	Inventory: ['staff', 'herding dog']
+None

@@ -1,0 +1,11 @@
+
+Name: D
+level: 0    occupation: elven forester    race: elf
+	str: 17
+	agl: 15
+	sta: 12
+	per: 8
+	int: 12
+	lck: 8
+	Inventory: ['staff', 'herbs 1lb.']
+None

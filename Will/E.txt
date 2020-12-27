@@ -1,0 +1,11 @@
+
+Name: E
+level: 0    occupation: minstrel    race: human
+	str: 12
+	agl: 11
+	sta: 14
+	per: 3
+	int: 8
+	lck: 5
+	Inventory: ['dagger', 'ukulele']
+None

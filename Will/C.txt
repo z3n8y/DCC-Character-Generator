@@ -1,0 +1,11 @@
+
+Name: C
+level: 0    occupation: ditch digger    race: human
+	str: 11
+	agl: 11
+	sta: 8
+	per: 12
+	int: 8
+	lck: 7
+	Inventory: ['shovel', 'fine dirt, 1lb.']
+None

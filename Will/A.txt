@@ -1,0 +1,11 @@
+
+Name: A
+level: 0    occupation: halfling vagrant    race: halfling
+	str: 14
+	agl: 11
+	sta: 8
+	per: 17
+	int: 7
+	lck: 8
+	Inventory: ['club', 'begging bowl']
+None

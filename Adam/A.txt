@@ -1,0 +1,11 @@
+
+Name: A
+level: 0    occupation: blacksmith    race: human
+	str: 13
+	agl: 10
+	sta: 5
+	per: 9
+	int: 12
+	lck: 12
+	Inventory: ['hammer', 'steel tongs']
+None

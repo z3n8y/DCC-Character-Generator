@@ -1,0 +1,11 @@
+
+Name: D
+level: 0    occupation: soldier    race: human
+	str: 14
+	agl: 16
+	sta: 9
+	per: 8
+	int: 8
+	lck: 13
+	Inventory: ['spear', 'shield']
+None

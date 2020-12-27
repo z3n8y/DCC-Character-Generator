@@ -1,0 +1,11 @@
+
+Name: B
+level: 0    occupation: farmer    race: human
+	str: 7
+	agl: 9
+	sta: 6
+	per: 8
+	int: 14
+	lck: 10
+	Inventory: ['pitchfork', 'sheep']
+None
