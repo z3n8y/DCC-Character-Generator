@@ -20,7 +20,7 @@ def roll_character(level=0):
 	char.roll_stats()
 	char.get_occupation()
 	char.describe_character()
-	sys.stdout = open(f'{char.name}.txt', 'w')
+	sys.stdout = open(f'characters/{char.name}.txt', 'w')
 	print(char.describe_character())
 	sys.stdout = sys.__stdout__
 	

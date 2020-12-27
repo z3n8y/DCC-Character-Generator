@@ -1,0 +1,11 @@
+
+Name: Leroy Jenkins
+level: 0    occupation: halfling vagrant    race: halfling
+	str: 9
+	agl: 14
+	sta: 12
+	per: 15
+	int: 13
+	lck: 11
+	Inventory: ['club', 'begging bowl']
+None

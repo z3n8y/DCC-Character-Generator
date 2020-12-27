@@ -1,0 +1,11 @@
+
+Name: Jomi Jammer
+level: 0    occupation: herder    race: human
+	str: 11
+	agl: 7
+	sta: 6
+	per: 13
+	int: 13
+	lck: 12
+	Inventory: ['staff', 'herding dog']
+None
